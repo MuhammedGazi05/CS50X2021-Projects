@@ -1,5 +1,5 @@
 <a href='https://secure-island-71749.herokuapp.com'>
-    <img src='./media/logo.png' alt='ISTIKBALLI Logo' title='ISTIKBALLI' align='right' height='60'/>
+    <img src='data:image/png;base64,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' alt='ISTIKBALLI Logo' title='ISTIKBALLI' align='right' height='60'/>
 </a>
 
 # ISTIKBALLI (CS50 Final Project)
@@ -33,9 +33,9 @@ You can also access the video explanation [here!](https://youtu.be/EFocsy9a0SM)
 Broadcast also plays an important role as a medium of information and communication in information traffic that forms knowledge through human input media in the form of eyes and ears (audio and visual).
 This information traffic causes spontaneous and long-term acceptance through the intelligence possessed by humans assisted by innovation to form a knowledge that forms the basis for the creation of an intelligent society.
 Knowledge dissemination increases awareness in the underlying community system not only knowing but also understanding and being able to classify all kinds of right and wrong forms of actions, responses and prospects.
-This is also based on the high level of [human resources of productive age in Indonesia](2.	https://www.neliti.com/id/publications/38808/model-peningkatan-kualitas-sdm-penduduk-usia-kerja-yang-unggul-professional-dan), which makes the potential to educate the nation's life a necessity.
+This is also based on the high level of [human resources of productive age in Indonesia](https://www.neliti.com/id/publications/38808/model-peningkatan-kualitas-sdm-penduduk-usia-kerja-yang-unggul-professional-dan), which makes the potential to educate the nation's life a necessity.
 
-In addition, in welcoming the industrial revolution of society 5.0, information technology, communication and productive young human resources also play an important role in [realizing developments both in Indonesia and on the world stage.](4.	https://puslitjakdikbud.kemdikbud.go.id/produk/artikel/detail/3133/gen-z-dominan-apa-maknanya-bagi-pendidikan-kita)
+In addition, in welcoming the industrial revolution of society 5.0, information technology, communication and productive young human resources also play an important role in [realizing developments both in Indonesia and on the world stage.](https://puslitjakdikbud.kemdikbud.go.id/produk/artikel/detail/3133/gen-z-dominan-apa-maknanya-bagi-pendidikan-kita)
 And the demographic bonus also goes hand in hand when this beloved republic wants to reach the age of one century.
 Therefore, these facilities are the benchmarks and factors in realizing our potential and plans in 2045, namely, [“One century of Indonesia: sovereign, advanced, just and prosperous.](5.	https://www.bappenas.go.id/files/Visi%20Indonesia%202045/Ringkasan%20Eksekutif%20Visi%20Indonesia%202045_Final.pdf)
 
@@ -49,16 +49,16 @@ But of all these factors we have a few problems that cannot be solved personally
 This problem is divided into two: from the speaker factor (provider of information) and also the audience (receiver of information).
 
 The first factor occurs for many things, including the biggest one is the facilities and packaging of Indonesian broadcast media which are still inadequate.
-The closest example in everyday life, sometimes we like to complain about bad connections when we [do virtual learning which hinders the receipt of information](6.	https://id.cips-indonesia.org/post/ringkasan-kebijakan-mengkaji-hambatan-pembelajaran-jarak-jauh-di-indonesia-di-masa-covid-19-3)
+The closest example in everyday life, sometimes we like to complain about bad connections when we [do virtual learning which hinders the receipt of information](https://id.cips-indonesia.org/post/ringkasan-kebijakan-mengkaji-hambatan-pembelajaran-jarak-jauh-di-indonesia-di-masa-covid-19-3)
 Then social media, websites, television which are under the auspices of the government are considered less attractive and less educating many parties.
-Also, the contribution of productive human resources, especially Generation Z, who became the [main face of a century of Indonesia, is still considered very lacking.](7.	https://kominfo.go.id/content/detail/1926/informasi-edukatif-pada-tv-indonesia-masih-kurang/0/sorotan_media)
+Also, the contribution of productive human resources, especially Generation Z, who became the [main face of a century of Indonesia, is still considered very lacking.](https://kominfo.go.id/content/detail/1926/informasi-edukatif-pada-tv-indonesia-masih-kurang/0/sorotan_media)
 This is due to the lack of equitable distribution of mindset and awareness of these people.
 There are a small number of them who have the potential to develop Indonesian broadcasting, as we can see from the executive heads of well-known Indonesian universities in carrying out consolidation maneuvers when conveying their aspirations to the government.
 Only they have the disadvantage of wanting to show their intellectual capacity more than conveying information to the general public.
 So that their ability is considered less able to reach the flow of society.
 Not only that, most of the media in Indonesia are more concerned with high-informed content than how to make the information well received by the public.
 
-Then the second factor occurs from [the intellectual side and awareness of our society which is still very lacking.](8.	https://tirto.id/indeks-pendidikan-indonesia-rendah-daya-saing-pun-lemah-dnvR)
+Then the second factor occurs from [the intellectual side and awareness of our society which is still very lacking.](https://tirto.id/indeks-pendidikan-indonesia-rendah-daya-saing-pun-lemah-dnvR)
 So that causes a few problems starting from the reluctance to get or receive correct information so that gossip can freely mill about.
 Then the lack of public awareness that makes it difficult for them to receive information.
 Then there was a misunderstanding between one another. It doesn't stop there, when we find people with high arrogance, they will provoke and spread hoax news from the results of these misunderstandings.
@@ -72,7 +72,7 @@ To create a social media and communication platform, data and information that i
 The productive age, especially Generation Z, must work together in developing an ideal broadcasting system for all levels of society.
 This can be started from raising awareness of young people and also all human resources who contribute in broadcasting agencies to further improve the quality of informative and interactive content while maintaining idealism so that it can be accepted by all levels of society.
 It should also be noted that putting aside one's ego and agency is an important thing. Because as long as the ego is still found, there is a gap between the giver and the recipient of information that makes the distribution of information fail.
-Also with the development of technology and to realize the industrial revolution of society 5.0, the use of social media is important because it is the [main milestone of broadcasting in the 21th century.](8.	https://tirto.id/indeks-pendidikan-indonesia-rendah-daya-saing-pun-lemah-dnvR)
+Also with the development of technology and to realize the industrial revolution of society 5.0, the use of social media is important because it is the [main milestone of broadcasting in the 21th century.](https://tirto.id/indeks-pendidikan-indonesia-rendah-daya-saing-pun-lemah-dnvR)
 Such as creating Instagram, Tiktok, Youtube content with the theme of national awareness packaged in unique short videos, plus more interaction. between content creators and viewers with QnA and giveaway is a small example that has a big impact on broadcasting development.
 
 Then the government can raise public awareness by drafting laws that help socialize the importance of raising awareness in society. Because actually all information in this world has been created by God in abundance.
@@ -86,7 +86,9 @@ Istikballi is a data platform that provides every curriculum vitae and all kinds
 Istikballi is taken from the Ottoman Turkish word which means Future People.
 In summary, this platform is a combination of social media and website features that have been developed in general.
 We took the feature of viewing resumes and the ability to make it easier to find work or favorite schools/universities such as features developed by LinkedIn.
+
 ![Photo 1](https://blogger.googleusercontent.com/img/a/AVvXsEjWvijauvtc5qPrAkJNnYDQ9pUWJsVwN5V73Y_STgzFBJKvsJasRHDLnvEUTfZ53JGuG8PpEyMezo5x_JGb5NO6Hiufir6pMm9C62rQJPtLjIe0kKpE7aRFPOVPpNh8tyraPC82FfAQYQYLDVdLCiLOIwEPci5GpYqGSfc6bLL824uX_u2HQ2YBldwH=s1920)
+
 ```html5
 <header class='jumbo valign bg-img' data-background='http://i.hmp.me/m/4da678ffdc442fc97a5784f612c2514f.png' data-overlay-dark='4' data-scroll-index='0' id='home'>
 <div CLASS='container'>
@@ -121,6 +123,7 @@ We took the feature of viewing resumes and the ability to make it easier to find
 ```
 
 ![Photo 2](https://blogger.googleusercontent.com/img/a/AVvXsEhf_PPiZpQ9wNxBXO0RyNrspwMJYk2gTgRXuDlo23Li_rNbM7FMclAYHxggXm2Jstp4B-Wqt68XLOCcgP17tMqkl4zdmRjKwVH0wYMbY-wZOTWcKpHnuUYH_ns_YWvluv1jOWrfnOu18O372TM4fY4PcN7js4OU8OnzvhlRvUno-1HZjmNFblFEFKT_=s1920)
+
 ```html5
 <section class='about' data-scroll-index='1' id='about'>
 <div CLASS='container'>
@@ -182,7 +185,9 @@ We took the feature of viewing resumes and the ability to make it easier to find
 
 Then there are also self-development features through written, visual, audio, and audiovisual content such as Youtube, Instagram, Twitter, Reddit, Blogs, and so on.
 Not only that but this feature can also be used to passively communicate to the public with the content produced.
+
 ![Photo 3](https://blogger.googleusercontent.com/img/a/AVvXsEgJc-4L1O5gaZtB5HM8MsoW5GEZHkZYuX1P9EyTb5hxAGhdE4iBi6_rCmUpB_T7n6US8ZczLZsrmXOpeQtcPF8CYME2wqWk8fcCJ0Djragp9Z9nIaR83GH-ZWjVrXyCs_GaZKWnPrb89ncOqHmf5lR8Hpt71TNVBH3hneh3CaRA1fHRs9NoZd6JstM8=s1920)
+
 ```html5
 <section class='blog section-padding' data-scroll-index='3' id='blog'>
 <div class='container'>
@@ -209,7 +214,9 @@ Not only that but this feature can also be used to passively communicate to the 
 ![Photo 4](https://blogger.googleusercontent.com/img/a/AVvXsEh8FNKGwlRIonKJrvZb-rmxafQzM5eU6ydAD6YlcYkAFV4owwm_bZpuR_UHsydH9Hk5KjNnJwr4yFbfOs8CwxkpIB-dGFwu9SoSDdy_QrdcxsojZkcY2YvkpzLo9dAnTkxzXXdrZD9NAqqTbJsHwx02CoKGlNdTd5uHL1Jd8Bx8WuMDU6AkLkhxHOby=s4287)
 
 Then there are self-introduction and communication features such as WhatsApp, Telegram and so on which are still in the development stage.
+
 ![Photo 5](https://blogger.googleusercontent.com/img/a/AVvXsEhkcxyLaswxBC7_9DpkDijCqew5qJnwMovcMD3oz6wlamC1VaIrzczGwDV7R99XBGSm9XSuWwAycqY60vLiH02hALZ_HaXrFImhCNzUomhwJjpho7rBQsZ_jG4AnYL6sWmoa7y-d_ogdRB5H9SzswiMY2Q-8rZbBUmVWTUfzDWXOdqWJkrmq_R2RvF8=s1920)
+
 ```html5
 </div>
 </div>
@@ -249,7 +256,9 @@ Then there are self-introduction and communication features such as WhatsApp, Te
 ```
 
 And lastly, this feature can be used specifically by agencies that have the authority to hold data such as the E-Devlet website in the Republic of Turkey which accommodates all kinds of citizen data to facilitate integration and regulation when they want to take care of a document or when there are problems in administrative matters.
+
 ![Photo 6](https://blogger.googleusercontent.com/img/a/AVvXsEjmyzvTXRYpjLIYRBuUtF3f873zgFTcXPab4gGL_aNEmchpD78CAiznDNLALo1reAMEPzW0jfPV9JajcK4pqtfsYlhxz7gvLBMmSeIuRLN7SoSniIMQRxdv0Uwl85zk6hZn9HUEtxwv2lmqlMZW2u3ZW2f--7-blgPDout2Zi8DUbVYcNgS97_Ssc3B=s1920)
+
 ```html5
 <section class='services section-padding bg-dark' data-scroll-index='2' id='services'>
 <div CLASS='container'>
@@ -292,6 +301,7 @@ And lastly, this feature can be used specifically by agencies that have the auth
 </div>
 </section>
 ```
+
 Of course, this feature is also still in the development stage which will later create this platform as the most integrated social media that can be used by all state governments to connect communication and information between the people with people and the people with government.
 With this platform, social media is also easier to reach and simpler because there are already several features that make it one platform for all.
 Compared to us now who have various kinds of social media which are quite troublesome, especially in data synchronization and other things.
@@ -314,7 +324,7 @@ But with today's error, there will be evaluation and correction that will give b
 
 ## Conclusion
 
-The cooperation of all agencies and cooperation between the community and the government is important to [solve problems and realize the plans of the solutions that have been designed.](9.	https://balitbang.pemkomedan.go.id/tinymcpuk/gambar/file/YOHANNA%20100901026.pdf)
+The cooperation of all agencies and cooperation between the community and the government is important to [solve problems and realize the plans of the solutions that have been designed.](https://balitbang.pemkomedan.go.id/tinymcpuk/gambar/file/YOHANNA%20100901026.pdf)
 Release of ego, compromise and communication become the main bridge between the layers of society and the government, also helps in achieving equality and common goals in creating an orderly social system.
 Then after the good information traffic, slowly every soul of the Indonesian people will be educated. Smart society is the key to a great nation and a great country.
 
